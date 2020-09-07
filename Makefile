@@ -1,7 +1,7 @@
 THEOS_DEVICE_IP = Janiks-iPhone-X.local
 
 PACKAGE_VERSION = $(shell cat VERSION)
-ARCHS = arm64# arm64e
+ARCHS = arm64 arm64e
 TARGET = iphone:13.3:latest
 
 INSTALL_TARGET_PROCESSES = SpringBoard
