@@ -1,0 +1,7 @@
+{
+	"DISPLAY_NAME" = "Binär";
+	"DESCRIPTION" = "Aus der Kollektion „LockWatch 2015 Legacy“.\nNicht handelbar. Nicht marktfähig.\n\nDas Zifferblatt „Binär“ zeigt die Zeit an, indem jede Ziffer als ein Bit dargestellt wird. Die einzelnen Säulen repräsentieren dabei die Ziffern, während die Zeilen den Wert einer Säule zeigen. Von unten nach oben gesehen stellt eine Zeile jeweils den Wert 1, 2, 4 oder 8 dar. Um die aktuelle Uhrzeit umzurechnen, musst du nur die Werte der Zeilen in einer Säule zusammenrechnen. Als Hilfestellung kannst du auch die Uhrzeit unterhalb der Bits anzeigen.";
+	
+	"BINARY_BOTTOM_TEXT_OFF" = "Aus";
+	"BINARY_BOTTOM_TEXT_ON" = "Digitale Uhrzeit";
+}

@@ -1,0 +1,7 @@
+{
+	"DISPLAY_NAME" = "Binary";
+	"DESCRIPTION" = "From the collection "LockWatch 2015 Legacy".\nNot tradable. Not marketable.\n\n.The \"Binary\" watch face shows the time by displaying each number as a bit. The columns represent each individual number, while the lines show the value of each column. Going from bottom to top, a line has a value of either 1, 2, 4 or 8. To get the current time, the values of each line has to be summed up per column. If you have difficulties, you can also show the actual time below the bits.";
+	
+	"BINARY_BOTTOM_TEXT_OFF" = "Off";
+	"BINARY_BOTTOM_TEXT_ON" = "Digital Time";
+}

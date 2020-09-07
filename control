@@ -1,0 +1,8 @@
+Package: ml.festival.lockwatch2.faces
+Name: LockWatch2CustomFaces
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Custom watch faces for LockWatch 2, created by Team FESTIVAL
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Author: Sniper_GER <sniperger@festival.tf>
+Section: Watch Faces (LockWatch 2)
